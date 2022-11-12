@@ -1,4 +1,4 @@
-### Olá me chamo Kelvin Magalhães, estudante de front-end
+### Olá me chamo Kelvin Magalhães!
 
 - 🔭 Hoje trabalho com suporte técnico
 - 🌱 Estudando HTML / CSS / Javascript.
